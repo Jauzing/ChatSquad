@@ -10,7 +10,7 @@ This is because the model was originally used to create data for fine-tune train
 2. [Usage](#Usage)
 3. [Contribution](#Contribution)
 4. [License](#License)
-5. [Contact Information](#Contact Information)
+5. [Contact](#Contact)
 
 ## Installation
 Install and import the required dependencies
@@ -40,7 +40,7 @@ However, if you find a bug or have a feature suggestion, kindly open an issue.
 This project uses the OpenAI API to generate content. Input and output from the OpenAI API is governed by the [OpenAI Terms of Use](https://openai.com/policies/terms-of-use). All other code and content within this project is under the MIT license.
 
 
-## Contact information
+## Contact
 
 David  
 
