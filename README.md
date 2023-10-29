@@ -44,6 +44,6 @@ This project uses the OpenAI API to generate content. Input and output from the 
 
 David  
 
-For any questions or concerns, feel free to reach me by [mail](mailto:david@thomander.nu)
+For any questions or concerns you may have, feel free to reach out by [mail](mailto:david@thomander.nu).
 
 
