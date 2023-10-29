@@ -41,7 +41,7 @@ This project uses the OpenAI API to generate content. Input and output from the 
 
 
 ## Contact information
-David Thomander
+David Jauzing Emanuel
 
 [Mail](mailto:david@thomander.nu)
 
