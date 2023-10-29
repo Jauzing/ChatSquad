@@ -20,9 +20,7 @@ titleFont = "Goudy Stout"
 companyFont = "Harlow Solid Italic"
 
 # Import api key from os
-# openai_api_key = os.environ.get("OPENAI_KEY")
-
-openai.api_key = "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"
+openai.api_key = os.environ.get("OPENAI_KEY")
 
 # Define the personalities and their system messages
 personalities = {
