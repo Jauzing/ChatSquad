@@ -8,7 +8,7 @@ This is because the model was originally used to create data for fine-tune train
 ## Table of Contents
 1. [Installation](#Installation)
 2. [Usage](#Usage)
-3. [Contributor](#Contributor)
+3. [Contribution](#Contribution)
 4. [License](#License)
 5. [Contact Information](#Contact Information)
 
@@ -32,9 +32,9 @@ Ask a question and get an answer :)
 
 ## Contribution
 Right now this is a solo project and contributions are not actively sought.
-However, if you find a bug or have a feature suggestion, please open an issue.
+However, if you find a bug or have a feature suggestion, kindly open an issue.
 
-**Please note that this project uses the GPT-4 Private License. You therefore need an API key to run it**
+**Please note that this project uses the GPT-4 Private API. You therefore need an API key to run it**
 
 ## License
 This project uses the OpenAI API to generate content. Input and output from the OpenAI API is governed by the [OpenAI Terms of Use](https://openai.com/policies/terms-of-use). All other code and content within this project is under the MIT license.
