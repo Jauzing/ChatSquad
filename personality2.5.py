@@ -200,8 +200,8 @@ def main_loop():
 
             print("Saving responses...")
             new_entry = {
-                "prompt": response_text,
-                "response": user_message
+                "prompt": user_message,
+                "response": response_text
             }
 
             if os.path.exists('responses_personality.json'):
@@ -370,8 +370,8 @@ def main_loop():
 
             print("Saving responses...")
             new_entry = {
-                "prompt": response_text,
-                "response": user_message
+                "prompt": user_message,
+                "response": response_text
             }
 
             if os.path.exists('responses_personality.json'):
@@ -433,8 +433,8 @@ def main_loop():
 
         print("Saving responses...")
         new_entry = {
-            "prompt": response_text,
-            "response": user_message
+            "prompt": user_message,
+            "response": response_text
         }
 
         if os.path.exists('responses_personality.json'):

@@ -258,8 +258,8 @@ def main_loop():
         user_input.delete(0, tk.END)
 
         new_entry = {
-            "prompt": response_text,
-            "response": user_message
+            "prompt": user_message,
+            "response": response_text
         }
 
         if os.path.exists('responses_personality.json'):

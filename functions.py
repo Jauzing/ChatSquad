@@ -1,5 +1,11 @@
 import tkinter as tk
 import threading
+import os
+import json
+import openai
+from PIL import Image, ImageTk
+
+openai.api_key = os.environ.get("OPENAI_KEY")
 
 background_color = "#509DCC"
 text_color = "#FFFFFF"
@@ -94,8 +100,8 @@ def show_splash_screen(root):# Show a welcome screen with instructions
 
         print("Saving responses...")
         new_entry = {
-            "prompt": response_text,
-            "response": user_message
+            "prompt": user_message,
+            "response": response_text
         }
 
         if os.path.exists('responses_personality.json'):
